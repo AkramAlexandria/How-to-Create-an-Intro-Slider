@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+
+    <string name="slider01_Title">UpTo 24/7</string>
+    <string name="slider01_description">Best platform for home and exterior maintenance services</string>
+
+    <string name="slider02_Title">Various Services</string>
+    <string name="slider02_description">Find all the required services whether home, exterior, real estate and cars</string>
+
+    <string name="slider03_Title">Different Paymnet</string>
+    <string name="slider03_description">Different payment methods only for download on the application</string>
+
+    <string name="slider04_Title">Rating Required</string>
+    <string name="slider04_description">Select the desired Crarftsmen based on the visible ratings</string>
+
+    <string name="my_preference">"com.abc.com.MyPref"</string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey"</string>
+</resources>
